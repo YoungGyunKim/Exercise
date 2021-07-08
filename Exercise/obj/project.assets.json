@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YGK\\loc-git\\Exercise\\Exercise.csproj",
+      "projectUniqueName": "C:\\Users\\YGK\\exercise_commit\\Exercise\\Exercise.csproj",
       "projectName": "Exercise",
-      "projectPath": "C:\\Users\\YGK\\loc-git\\Exercise\\Exercise.csproj",
+      "projectPath": "C:\\Users\\YGK\\exercise_commit\\Exercise\\Exercise.csproj",
       "packagesPath": "C:\\Users\\YGK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YGK\\loc-git\\Exercise\\obj\\",
+      "outputPath": "C:\\Users\\YGK\\exercise_commit\\Exercise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

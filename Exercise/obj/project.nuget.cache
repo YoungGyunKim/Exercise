@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xlIQ3UZxqr6SA+vbMoHH/FXFSLry+QM3b3KNoyJ9Ehs3cbWXclZkz3Rxk3JmbmjVAV1PsXfF0sLVgeOWFeMgOQ==",
+  "dgSpecHash": "Bg8nSd7PQAO/J1ZgwjwN4kD6z++HU+FrcegweaA7sHpkA7RKKpvTuBmCOtqwgFeh4CDWltrJATcqplKRUVTUnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\YGK\\loc-git\\Exercise\\Exercise.csproj",
+  "projectFilePath": "C:\\Users\\YGK\\exercise_commit\\Exercise\\Exercise.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
